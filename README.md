@@ -40,6 +40,13 @@ A FAQ accordion with:
 
 ---
 
+### 🔗 Links 
+
+- 💡 Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/faq-accordion-with-html-css-and-javascript-IHdB1wTfoE)
+- 🌐 Live Site URL: [Live Demo](https://thewizard04-faq-accordion.vercel.app) 
+
+---
+
 ## 🛠️ My process
 
 ### 🧰 Built with
